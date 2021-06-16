@@ -1,0 +1,9 @@
+C:\Users\kapan\Desktop\NorthwindCore\NorthwindCore3\NorthwindModel\bin\Debug\netstandard2.1\NorthwindModel.deps.json
+C:\Users\kapan\Desktop\NorthwindCore\NorthwindCore3\NorthwindModel\bin\Debug\netstandard2.1\NorthwindModel.dll
+C:\Users\kapan\Desktop\NorthwindCore\NorthwindCore3\NorthwindModel\bin\Debug\netstandard2.1\NorthwindModel.pdb
+C:\Users\kapan\Desktop\NorthwindCore\NorthwindCore3\NorthwindModel\obj\Debug\netstandard2.1\NorthwindModel.csprojAssemblyReference.cache
+C:\Users\kapan\Desktop\NorthwindCore\NorthwindCore3\NorthwindModel\obj\Debug\netstandard2.1\NorthwindModel.AssemblyInfoInputs.cache
+C:\Users\kapan\Desktop\NorthwindCore\NorthwindCore3\NorthwindModel\obj\Debug\netstandard2.1\NorthwindModel.AssemblyInfo.cs
+C:\Users\kapan\Desktop\NorthwindCore\NorthwindCore3\NorthwindModel\obj\Debug\netstandard2.1\NorthwindModel.csproj.CoreCompileInputs.cache
+C:\Users\kapan\Desktop\NorthwindCore\NorthwindCore3\NorthwindModel\obj\Debug\netstandard2.1\NorthwindModel.dll
+C:\Users\kapan\Desktop\NorthwindCore\NorthwindCore3\NorthwindModel\obj\Debug\netstandard2.1\NorthwindModel.pdb
